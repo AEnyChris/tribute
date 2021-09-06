@@ -29,6 +29,7 @@ body{
 
 header{
     text-align: center;
+    
 }
 
 #img-div{
@@ -56,4 +57,7 @@ header{
 
 #footer{
     margin: 50px;
+}
+#footer a{
+    text-decoration: none;
 }
